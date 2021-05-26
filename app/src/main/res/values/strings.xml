@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Maths-Quiz_App</string>
+    <string name="start_quizAdd">Addition (+)</string>
+    <string name="start_quizSubs">Subtract (-)</string>
+    <string name="start_quizMulti">Multiply (X)</string>
+    <string name="start_quizDiv">Division (/)</string>
+    <string name="startMsg">Pick Your Quiz</string>
+    <string name="textviewAdd">resultsAdd</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="_30s">30s</string>
+    <string name="_0_0">0/0</string>
+    <string name="give_your_best_shot">Give Your Best Shoot</string>
+    <string name="_12_23">12+23</string>
+    <string name="_32">32</string>
+    <string name="_39">39</string>
+    <string name="_35">35</string>
+    <string name="_45">45</string>
+    <string name="sub_12_23">23-12</string>
+    <string name="textviewMul">results</string>
+    <string name="textviewDiv">resultDiv</string>
+    <string name="Div_12_23">23 / 12</string>
+    <string name="menu">Menu</string>
+</resources>
