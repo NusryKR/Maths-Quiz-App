@@ -1,6 +1,6 @@
 # Maths-Quiz-App
 
-### It's have Quizes in
+### This app includes quizes in
 
 * Addition
 * Subtraction
